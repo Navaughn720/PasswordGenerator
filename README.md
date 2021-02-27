@@ -5,3 +5,5 @@ Could not get the generator to opperate on 100% functionality.
 
 ![alt text](images/screen shot.png)
 https://navaughn720.github.io/PasswordGenerator/
+
+https://github.com/Navaughn720/PasswordGenerator.git
